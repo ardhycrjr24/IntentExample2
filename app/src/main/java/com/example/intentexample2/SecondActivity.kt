@@ -1,8 +1,8 @@
-package com.example.intentexample2
+package id.ac.smpn8bks.ardiansyah.intentexample2
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.intentexample2.databinding.ActivitySecondBinding
+import id.ac.smpn8bks.ardiansyah.intentexample2.databinding.ActivitySecondBinding
 
 class SecondActivity : AppCompatActivity() {
 

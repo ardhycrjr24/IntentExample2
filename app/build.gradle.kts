@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.intentexample2"
+    namespace = "id.ac.smpn8bks.ardiansyah.intentexample2"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.intentexample2"
+        applicationId = "id.ac.smpn8bks.ardiansyah.intentexample2"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
@@ -27,7 +27,6 @@ android {
         }
     }
 
-    // ✅ Tambahkan ini (pakai tanda = karena ini Kotlin DSL)
     buildFeatures {
         viewBinding = true
     }
